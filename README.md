@@ -22,10 +22,6 @@
 
 
 
-### 📚 Обучение
-|<img height="550" src="media/diploma_ru.jpg"/>|<img height="550" src="media/Letter.png"/>|
-
-
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
@@ -35,7 +31,7 @@
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 <!--
-**elenaivanovaqa/elenaivanovaqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**igor-nitochkin/igor-nitochkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
